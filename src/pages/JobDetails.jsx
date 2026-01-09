@@ -14,7 +14,7 @@ function Job() {
 useEffect(() => {
   const fetchData = async () => {
     try {
-      let response = await fetch("/job.json"); 
+      let response = await fetch("/Jobfinder/job.json"); 
       if (!response.ok) throw new Error("Network not working");
 
       let jsondata = await response.json(); 
