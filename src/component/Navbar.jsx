@@ -9,10 +9,10 @@ function Navbar() {
   const [open, setOpen] = useState(false);
   const navigate = useNavigate();
 
-  const user = JSON.parse(localStorage.getItem("currentUser"));
+  const user = JSON.parse(localStorage.getItem("user"));
 
   const logout = () => {
-    localStorage.removeItem("currentUser");
+    localStorage.removeItem("user");
     navigate("/Login");
     setOpen(false);
   };
