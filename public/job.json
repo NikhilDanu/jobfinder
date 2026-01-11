@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "company": "Google",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg",
+    "jobTitle": "Frontend Developer",
+    "description": "Work on scalable UI using React and modern JavaScript.",
+    "jobType": "Remote",
+    "location": "Bangalore, India",
+    "timePeriod": "Full Time"
+  },
+  {
+    "id": 2,
+    "company": "Microsoft",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg",
+    "jobTitle": "Software Engineer",
+    "description": "Develop enterprise level applications using .NET and Azure.",
+    "jobType": "Onsite",
+    "location": "Hyderabad, India",
+    "timePeriod": "Full Time"
+  },
+  {
+    "id": 3,
+    "company": "Amazon",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
+    "jobTitle": "Backend Developer",
+    "description": "Build APIs and microservices with Node.js.",
+    "jobType": "Hybrid",
+    "location": "Pune, India",
+    "timePeriod": "Full Time"
+  },
+  {
+    "id": 4,
+    "company": "Meta",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/05/Meta_Platforms_Inc._logo.svg",
+    "jobTitle": "React Developer",
+    "description": "Create social media features with React & GraphQL.",
+    "jobType": "Remote",
+    "location": "Remote",
+    "timePeriod": "Contract"
+  },
+  {
+    "id": 5,
+    "company": "Netflix",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg",
+    "jobTitle": "UI Engineer",
+    "description": "Design high quality streaming UI experiences.",
+    "jobType": "Remote",
+    "location": "Remote",
+    "timePeriod": "Full Time"
+  },
+  {
+    "id": 6,
+    "company": "Apple",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
+    "jobTitle": "iOS Developer",
+    "description": "Build iOS applications using Swift.",
+    "jobType": "Onsite",
+    "location": "Bangalore, India",
+    "timePeriod": "Full Time"
+  },
+  {
+    "id": 7,
+    "company": "Infosys",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/95/Infosys_logo.svg",
+    "jobTitle": "Junior Web Developer",
+    "description": "Work on client projects using HTML, CSS, JavaScript.",
+    "jobType": "Onsite",
+    "location": "Mysore, India",
+    "timePeriod": "Full Time"
+  },
+  {
+    "id": 8,
+    "company": "TCS",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Tata_Consultancy_Services_Logo.svg",
+    "jobTitle": "React Developer",
+    "description": "Develop frontend applications using React.",
+    "jobType": "Hybrid",
+    "location": "Mumbai, India",
+    "timePeriod": "Full Time"
+  },
+  {
+    "id": 9,
+    "company": "Wipro",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Wipro_Primary_Logo_Color_RGB.svg",
+    "jobTitle": "Java Developer",
+    "description": "Develop backend services using Java & Spring.",
+    "jobType": "Onsite",
+    "location": "Chennai, India",
+    "timePeriod": "Full Time"
+  },
+  {
+    "id": 10,
+    "company": "Accenture",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Accenture.svg",
+    "jobTitle": "Software Analyst",
+    "description": "Analyze requirements and develop solutions.",
+    "jobType": "Hybrid",
+    "location": "Gurgaon, India",
+    "timePeriod": "Full Time"
+  },
+  {
+    "id": 11,
+    "company": "IBM",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg",
+    "jobTitle": "Cloud Engineer",
+    "description": "Work with cloud infrastructure and DevOps tools.",
+    "jobType": "Remote",
+    "location": "Remote",
+    "timePeriod": "Full Time"
+  },
+  {
+    "id": 12,
+    "company": "Oracle",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg",
+    "jobTitle": "Database Engineer",
+    "description": "Manage and optimize enterprise databases.",
+    "jobType": "Onsite",
+    "location": "Noida, India",
+    "timePeriod": "Full Time"
+  },
+  {
+    "id": 13,
+    "company": "Flipkart",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flipkart_logo.png",
+    "jobTitle": "Frontend Engineer",
+    "description": "Develop e-commerce UI using React.",
+    "jobType": "Hybrid",
+    "location": "Bangalore, India",
+    "timePeriod": "Full Time"
+  },
+  {
+    "id": 14,
+    "company": "Paytm",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/55/Paytm_logo.png",
+    "jobTitle": "Full Stack Developer",
+    "description": "Work on fintech products end to end.",
+    "jobType": "Onsite",
+    "location": "Noida, India",
+    "timePeriod": "Full Time"
+  },
+  {
+    "id": 15,
+    "company": "Swiggy",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/13/Swiggy_logo.png",
+    "jobTitle": "Product Engineer",
+    "description": "Build food delivery platform features.",
+    "jobType": "Hybrid",
+    "location": "Bangalore, India",
+    "timePeriod": "Full Time"
+  }
+]
